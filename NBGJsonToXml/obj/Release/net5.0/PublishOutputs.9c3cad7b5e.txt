@@ -1,0 +1,11 @@
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/appsettings.json
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/NBGJsonToXml.dll
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/NBGJsonToXml.deps.json
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/NBGJsonToXml.runtimeconfig.json
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/NBGJsonToXml.pdb
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/Newtonsoft.Json.dll
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/macbook/Desktop/identity/NBGJsonToXml/NBGJsonToXml/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

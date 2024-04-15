@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{6601C00F-B6AF-44D3-AB14-8412DB47ED32}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NBGJsonToXml/Controllers/JsonToXmlController.cs">
+    <Files>
+      <File FileName="NBGJsonToXml/Controllers/JsonToXmlController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NBGJsonToXml" expanded="True">
+            <Node name="NBGJsonToXml" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="JsonToXmlController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.NBGJsonToXml PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
